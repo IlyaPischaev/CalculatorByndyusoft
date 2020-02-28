@@ -1,0 +1,7 @@
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\bin\Debug\CalculatorByndyusoft.exe.config
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\bin\Debug\CalculatorByndyusoft.exe
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\bin\Debug\CalculatorByndyusoft.pdb
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\obj\Debug\CalculatorByndyusoft.csprojAssemblyReference.cache
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\obj\Debug\CalculatorByndyusoft.csproj.CoreCompileInputs.cache
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\obj\Debug\CalculatorByndyusoft.exe
+C:\Work\C#\CalculatorByndyusoft\CalculatorByndyusoft\obj\Debug\CalculatorByndyusoft.pdb
